@@ -14,7 +14,7 @@ var LoanApplicationList = [];
 var SelectedLoanApplication = null;
 var SelectedLoanApplicationIndex = -1;
 
-//fires when the page loads
+//fires when the page loads 
 window.onload = function () {
 
     var dropDown = document.getElementById("loanApplication");
